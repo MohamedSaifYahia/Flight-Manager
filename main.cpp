@@ -1,12 +1,3 @@
-
-//=================================================================================
-// Name         : DS Assignment#4 
-// Author       : 
-// Version      : 1.0
-// Date Created : 00-00-2022
-// Date Modified: 
-// Description  : Starter Code for Contact Travel Management System using HASH TABLE in C++
-//=================================================================================
 #include<iostream>
 #include<cstdlib>
 #include<sstream>
